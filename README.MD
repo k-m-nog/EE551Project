@@ -15,9 +15,8 @@ This project uses python3, openCV, pytorch, numpy, MatPlotLib and other librarie
         
         pip3 install -r requirements.txt
 
-2. Create a static folder and assets folder
+2. Create a static folder
 
-        mkdir ./static
         mkdir ./assets
 
 3. Place pretained model in assets directory
